@@ -1,91 +1,97 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jacob Jensens's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+⚠️ 
+__NOTE: This résumé is fictional and created solely for class/project purposes.
+It does not represent a real employment history.__
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
-</div>
+Jacob — Data Science Student
+Rexburg, ID
+Email: Legolas10004@gmail.com
+GitHub: https://jljensen008.github.io/jljensen008.github.io2/ 
+LinkedIn: www.linkedin.com/in/jacob-jensen-422939405
 
+Summary
+Motivated data science student with hands‑on experience in Python, Polars, machine learning, and statistical analysis. Skilled in cleaning complex datasets, engineering features, building predictive models, and communicating results clearly. Strong analytical mindset with growing expertise in modern data tooling and reproducible workflows.
 
-## Currently
+Technical Skills
+Languages: Python, SQL, Markdown
+Libraries & Tools: Polars, pandas, scikit‑learn, NumPy, Matplotlib, Seaborn
+Machine Learning: Random Forests, Logistic Regression, Train/Test Splits, Feature Engineering
+Data Skills: Data Cleaning, One‑Hot Encoding, Ordinal Encoding, Missing Value Imputation
+Other: Git/GitHub, Jupyter Notebooks, VS Code
 
-Standing on the shoulders of giants
+Projects
+Star Wars Survey Income Prediction (Course Project)
+Tools: Polars, scikit‑learn, Random Forest Classifier
 
-### Specialized in
+Cleaned and validated a 835‑row survey dataset using Polars.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Engineered ordinal variables for age, education, income, and favorability ratings.
 
+Performed one‑hot encoding for all categorical variables.
 
-### Research interests
+Built a Random Forest model to predict whether household income ≥ $50,000.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Achieved 61.7% accuracy after removing data leakage and properly preparing features.
 
+Delivered a structured client‑style report including executive summary, methods, results, and conclusions.
 
-## Education
+Data Wrangling & Feature Engineering Practice
+Tools: Polars, pandas
 
-`1654-1660`
-__The King's School, Grantham.__
+Practiced transforming messy datasets into ML‑ready formats.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Implemented mapping dictionaries, regex extraction, and categorical encoding.
 
-- Sizar
+Explored missing value strategies including imputation and null‑safe transformations.
 
-`1667 - death`
-__Trinity College, Cambridge__
+Machine Learning Coursework
+Tools: scikit‑learn
 
-- Fellow
+Completed multiple assignments involving model training, evaluation, and interpretation.
 
+Compared model performance across algorithms and preprocessing strategies.
 
+Developed understanding of bias, variance, and model generalization.
 
-## Awards
+Education
+Bachelor of Science — Data Science (In Progress)  
+Brigham Young University–Idaho
+Relevant coursework: Machine Learning, Data Wrangling, Statistics, Technical Writing, Biology, Chemistry
 
-`2012`
-President, *Royal Society*, London, UK
+Experience
+(Fictional placeholder entries — replace when you have real experience)
 
-Associate, *French Academy of Science*, Paris, France
+Data Intern — Example Analytics Co.
+Rexburg, ID — 2025
 
+Assisted with cleaning and preparing datasets for internal dashboards.
 
+Automated repetitive data tasks using Python scripts.
 
-## Publications
+Collaborated with analysts to validate data quality.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Student Research Assistant — Example University Lab
+Rexburg, ID — 2024
 
-### Journals
+Supported data collection and preprocessing for a small research study.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Built simple predictive models to explore relationships in the data.
 
-`1669`
-Lectiones opticæ.
+Presented findings to faculty mentors.
 
-etc. etc. etc.
+Certifications
+(Optional — add real ones later)
 
-### Patents
+Python for Everybody (Coursera)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Data Science Foundations (LinkedIn Learning)
 
+Additional Information
+Strong interest in machine learning, data engineering, and scientific computing.
 
-## Occupation
+Enjoys building clean, reproducible data pipelines.
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Actively learning Polars, SQL, and cloud‑based data tools.
